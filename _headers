@@ -1,0 +1,6 @@
+/assets/*.pdf
+  Content-Type: application/pdf
+/assets/*.png
+  Content-Type: image/png
+/assets/*.jpg
+  Content-Type: image/jpeg

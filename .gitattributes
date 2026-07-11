@@ -1,0 +1,9 @@
+# 将以下文件类型视为二进制，防止 Git 自动转换
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.mp3 binary
+*.mp4 binary
